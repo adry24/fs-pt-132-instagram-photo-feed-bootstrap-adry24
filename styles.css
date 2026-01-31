@@ -1,0 +1,38 @@
+body {
+  background: rgb(241, 238, 238);
+}
+
+.cabecera {
+  background: rgb(212, 212, 212);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.fa-instagram {
+  font-size: 40px;
+}
+
+.logo {
+  display: flex;
+}
+
+.salir {
+  color: red;
+  text-decoration: none;
+}
+
+.descripcion {
+  width: 100%;
+}
+
+ul {
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 10px 0;
+}
